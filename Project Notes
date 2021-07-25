@@ -1,0 +1,12 @@
+Progress:
+    - 7/18/2021:
+        - implemented entity selection and movement by mouse click
+
+In Progress:
+    - 7/19:
+        - TASK1: draw entity's center at its position
+        - TASK2: assign one mouse button to entity selection and the other mouse button to change entity destination, causing entity to move.
+    - 7/20:
+        - TASK1 complete
+        - TASK2 complete
+        - TASK3: collision detection

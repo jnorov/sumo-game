@@ -1,0 +1,12 @@
+
+General:
+    - ctrl + e                  ->  view recent files
+    - ctrl + Enter              ->  intention action / quick fix
+    - ctrl + r                  ->  search and replace item(s)
+
+Selection:
+    - ctrl + shift + alt + j    ->  select all occurrences
+    - shift + alt + Click       ->  multiple carets
+
+Formatting:
+    - ctrl + shift + alt + l    ->  auto format window
